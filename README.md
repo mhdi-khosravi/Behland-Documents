@@ -84,6 +84,15 @@ We welcome feedback, suggestions, and reviews from the community. You can:
 
 ---
 
+## 🗳️ DAO & Governance
+
+BehLand uses a light DAO model for collective decision-making and proposals.  
+The official DAO governance framework is documented here:
+
+- [DAO Governance Framework](./Governance/DAO-Governance.md)
+
+---
+
 # 🏛️ Governance
 
 The roles and responsibilities within the BehLand ecosystem have been clearly documented to ensure transparency and accountability.  
