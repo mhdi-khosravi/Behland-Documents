@@ -16,5 +16,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - External Audit planned (AUDIT.md)
 - Transparency structure documented (TRANSPARENCY.md)
 
+- ## [1.0.1] - 2026-02-03
+### Added
+- DAO Governance framework document (DAO-Governance.md)
+
 ### Changed
 - Folder structure for documentation reorganization
