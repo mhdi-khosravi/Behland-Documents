@@ -19,6 +19,7 @@ You can explore any section by clicking on its folder to access related document
 
 ### Key sections include:
 - **LitePaper** – Vision, philosophy, token utility, learning model, and roadmap  
+- **MVP** – Minimum Viable Product plan, phased product scope, and early validation strategy  
 - **Tokenomics** – BEHT distribution, utilities, and economic structure  
 - **Education System** – Learning paths, VIP levels, NTT/NFT mechanisms  
 - **Security & Transparency** – Wallet structure, multisig setup, audit status, and disclosures  
@@ -26,6 +27,26 @@ You can explore any section by clicking on its folder to access related document
 - **Brand & Media** – Logos, visual identity, and official assets  
 
 This structure enables independent review of how BehLand works.
+
+---
+
+## 🚀 MVP Documentation
+
+The BehLand MVP document explains the phased product development strategy behind the first usable versions of the platform.
+
+It covers:
+- what an MVP is;
+- why BehLand needs an MVP before the full product;
+- Level 1 – Standard MVP;
+- Level 2 – Optimized MVP;
+- Level 3 – Complete MVP;
+- social layer, wallet, NTT, BEHT, rewards, Light Relay, DAO, and AI companion scope;
+- current MVP status and early-review purpose.
+
+Read the MVP documentation here:
+
+- [BehLand MVP Development Plan](./MVP/README.md)
+- [برنامه توسعه MVP به‌لند](./MVP/README_FA.md)
 
 ---
 
@@ -93,7 +114,7 @@ The official DAO governance framework is documented here:
 
 ---
 
-# 🏛️ Governance
+## 🏛️ Governance Structure
 
 The roles and responsibilities within the BehLand ecosystem have been clearly documented to ensure transparency and accountability.  
 You can view the detailed roles and responsibilities of the core team members and decision-making processes in the following document:
